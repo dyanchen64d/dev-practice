@@ -14,7 +14,7 @@
 
 # Certifications
 
-- [Programming with JavaScript](https://coursera.org/share/e51a1003efbd0b7182aca531e7ebf6f0)
-- [Version Control](https://coursera.org/share/9953c74eaeb424f9a3d65622b611e193)
-- [Advanced React](https://coursera.org/share/d7b1009ecdb3db7421f52ad7b197af74)
-- [Principles of UX/UI Design](https://coursera.org/share/6e8d12d540903d196c26edb4a6813c00)
+- [Programming with JavaScript](https://coursera.org/share/91b93925234ad1f4b1e2859de369eb98)
+- [Version Control](https://coursera.org/share/35f32d9c15cc2d819d98f31b1f1418b0)
+- [Advanced React](https://coursera.org/share/0e7213a3f6fb7e64e98d9473ced5b321)
+- [Principles of UX/UI Design](https://coursera.org/share/243d747e15986d4a6c531b55f80654fc)
