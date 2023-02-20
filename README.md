@@ -5,6 +5,7 @@
 - [web 3.0 blockchain app](https://github.com/dyanchen64d/web3-blockchain-app)
 - [react testing library practice](https://github.com/dyanchen64d/react-testing-practice)
 - [portfolio practice](https://github.com/dyanchen64d/react-portfolio-practice)
+- [stripe store](https://github.com/dyanchen64d/stripe-store)
 
 # NextJS
 
