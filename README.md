@@ -1,17 +1,19 @@
 # React
 
-- [full-stack chatgpt app](https://github.com/dyanchen64d/full-stack-chatgpt-app)
 - [redux practice](https://github.com/dyanchen64d/redux-practice)
 - [web 3.0 blockchain app](https://github.com/dyanchen64d/web3-blockchain-app)
 - [react testing library practice](https://github.com/dyanchen64d/react-testing-practice)
 - [portfolio practice](https://github.com/dyanchen64d/react-portfolio-practice)
+
+# Full-stack
+
+- [full-stack chatgpt app](https://github.com/dyanchen64d/full-stack-chatgpt-app)
 - [stripe store](https://github.com/dyanchen64d/stripe-store)
-
-# NextJS
-
 - [nextjs movie gallery](https://github.com/dyanchen64d/nextjs-movie-gallery)
 
 # HTML, CSS, JavaScript
+
+# ThreeJS
 
 # Certifications
 
