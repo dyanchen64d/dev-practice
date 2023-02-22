@@ -15,7 +15,7 @@
 
 # ThreeJS
 
-- [reat three fiber first try](https://github.com/dyanchen64d/try-rtf)
+- [react three fiber first try](https://github.com/dyanchen64d/try-rtf)
 
 # Certifications
 
