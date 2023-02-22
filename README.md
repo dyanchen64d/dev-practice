@@ -15,6 +15,8 @@
 
 # ThreeJS
 
+- [reat three fiber first try](https://github.com/dyanchen64d/try-rtf)
+
 # Certifications
 
 - [Programming with JavaScript](https://coursera.org/share/91b93925234ad1f4b1e2859de369eb98)
