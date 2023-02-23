@@ -10,6 +10,7 @@
 - [full-stack chatgpt app](https://github.com/dyanchen64d/full-stack-chatgpt-app)
 - [stripe store](https://github.com/dyanchen64d/stripe-store)
 - [nextjs movie gallery](https://github.com/dyanchen64d/nextjs-movie-gallery)
+- [input debounce](https://github.com/dyanchen64d/input-with-debounce)
 
 # HTML, CSS, JavaScript
 
