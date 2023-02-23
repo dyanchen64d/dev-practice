@@ -4,13 +4,13 @@
 - [web 3.0 blockchain app](https://github.com/dyanchen64d/web3-blockchain-app)
 - [react testing library practice](https://github.com/dyanchen64d/react-testing-practice)
 - [portfolio practice](https://github.com/dyanchen64d/react-portfolio-practice)
+- [input debounce](https://github.com/dyanchen64d/input-with-debounce)
 
 # Full-stack
 
 - [full-stack chatgpt app](https://github.com/dyanchen64d/full-stack-chatgpt-app)
 - [stripe store](https://github.com/dyanchen64d/stripe-store)
 - [nextjs movie gallery](https://github.com/dyanchen64d/nextjs-movie-gallery)
-- [input debounce](https://github.com/dyanchen64d/input-with-debounce)
 
 # HTML, CSS, JavaScript
 
