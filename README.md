@@ -5,6 +5,7 @@
 - [react testing library practice](https://github.com/dyanchen64d/react-testing-practice)
 - [portfolio practice](https://github.com/dyanchen64d/react-portfolio-practice)
 - [input debounce](https://github.com/dyanchen64d/input-with-debounce)
+- [mousemove throttle](https://github.com/dyanchen64d/throttle-react)
 
 # Full-stack
 
