@@ -21,7 +21,4 @@
 
 # Certifications
 
-- [Programming with JavaScript](https://coursera.org/share/91b93925234ad1f4b1e2859de369eb98)
-- [Version Control](https://coursera.org/share/35f32d9c15cc2d819d98f31b1f1418b0)
-- [Advanced React](https://coursera.org/share/0e7213a3f6fb7e64e98d9473ced5b321)
-- [Principles of UX/UI Design](https://coursera.org/share/243d747e15986d4a6c531b55f80654fc)
+- [Meta Front-End Developer](https://coursera.org/share/dc0550fbe07f636b0e5e0e7433bdeec3)
