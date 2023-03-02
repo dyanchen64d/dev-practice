@@ -13,8 +13,11 @@
 - [full-stack chatgpt app](https://github.com/dyanchen64d/full-stack-chatgpt-app)
 - [stripe store](https://github.com/dyanchen64d/stripe-store)
 - [nextjs movie gallery](https://github.com/dyanchen64d/nextjs-movie-gallery)
+- [nextjs 13 demo](https://github.com/dyanchen64d/nextjs-easy-demo)
 
 # HTML, CSS, JavaScript
+
+- [responsive website](https://github.com/dyanchen64d/responsive-website-coffee)
 
 # ThreeJS
 
