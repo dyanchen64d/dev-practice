@@ -21,7 +21,7 @@
 
 - [responsive website](https://github.com/dyanchen64d/responsive-website-coffee)
 - [snake game](https://github.com/dyanchen64d/snake-game)
-- [carousel-ui](https://carousel-ui.vercel.app/)
+- [carousel-ui](https://github.com/dyanchen64d/carousel-ui)
 
 # ThreeJS
 
