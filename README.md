@@ -24,6 +24,7 @@
 - [snake game](https://github.com/dyanchen64d/snake-game)
 - [carousel-ui](https://github.com/dyanchen64d/carousel-ui)
 - [svg hover effects](https://github.com/dyanchen64d/svg-icons-hover-effects-using-css)
+- [scroll animation](https://github.com/dyanchen64d/scroll-animation)
 
 # ThreeJS
 
